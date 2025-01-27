@@ -12,7 +12,7 @@ title                    : "Diego Gutierrez / DG"
 title_separator          : "-"
 name                     : &name "Diego Gutierrez"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://Nighttterrors.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : "I am a senior at the University of Houston. Focus on Mathematics and statistical learning. Aspiring actuary"
   location         : "Houston, Texas"
   employer         : "CarMax"
-  uri              : "https://www.uh.edu/nsm/computer-science/" # URL 
+  uri              : "https://www.uh.edu/nsm/computer-science/"  # URL 
   email            : "diegosalvadorgutierrez@outlook.com" 
 
   # Academic websites
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/diego-gutiérrez-17b5b4297/" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

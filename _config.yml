@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Diego Gutierrez"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "I am a senior at the University of Houston. Focus on Mathematics and statistical learning. Aspiring actuary"
+  location         : "Houston, Texas"
+  employer         : "CarMax"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "diegosalvadorgutierrez@outlook.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
